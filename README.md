@@ -1,7 +1,8 @@
 # Forest Status Report Romania
 
-In this repository, we extract text from PDF file reports, process it and after push it into Spacy pipeline for name entity extraction.
-Afterwards, the extracted results are printed in a map.
+In this repository, we extract text from PDF file report, process it and after push it into Spacy pipeline for name entity extraction.
+Afterwards, the extracted results are ploted in a map.
+The PDF document represents a report of Romanian Ministry of Water and Forests. It was released in 2017 and represents the forest status.
 
 ## Requirements
 
@@ -17,7 +18,7 @@ This project uses the following Python libraries
 
 ## Word counts
 
-THe plot bellow represents the moust frequent words used in a document.
+The plot bellow represents the moust frequent words used in a document.
 ![States Count](./scripts/images/words_counts.png)
 
 ## Mentions per county
