@@ -15,8 +15,12 @@ This project uses the following Python libraries
 * `seaborn` : Creating plots tool
 * `geopandas` : Ploting maps tool
 
-## Results
+## Word counts
 
-The number of each countie from the documents is ploted in a map.
+![States Count](./scripts/images/words_counts.png)
+
+## Mentions per county
+
+The number for which each time a county name appers in the document is ploted bellow. This can be viewed as a metric which outputs the problems with forests in each county.
 
 ![States Count](./scripts/images/map_2017.png)
