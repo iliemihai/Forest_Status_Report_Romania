@@ -17,10 +17,11 @@ This project uses the following Python libraries
 
 ## Word counts
 
+THe plot bellow represents the moust frequent words used in a document.
 ![States Count](./scripts/images/words_counts.png)
 
 ## Mentions per county
 
-The number for which each time a county name appers in the document is ploted bellow. This can be viewed as a metric which outputs the problems with forests in each county.
+The plot bellow represents how many times the name of each county appears in the document. This can be viewed as a metric which outputs the counties which have the biggest problems with deforestation.
 
 ![States Count](./scripts/images/map_2017.png)
